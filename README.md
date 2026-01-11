@@ -1,3 +1,11 @@
+## Overview
+
+This project was built as part of a Frontend Developer Intern assignment to demonstrate
+my ability to design scalable frontend architecture, integrate secure authentication,
+and build a production-ready dashboard using the MERN stack.
+
+The focus was on clean code structure, security best practices, and frontend–backend integration.
+
 # Scalable Web App with Authentication & Dashboard
 
 > A modern, full-stack MERN application featuring JWT authentication, task management, and responsive design. Built as a Frontend Developer Internship assignment.
@@ -28,43 +36,26 @@
 
 ---
 
-## 🎯 Assignment Requirements Met
-
-✅ **Frontend**: React.js with TailwindCSS, responsive design  
-✅ **Backend**: Node.js/Express with JWT authentication  
-✅ **Database**: MongoDB with Mongoose ODM  
-✅ **Security**: Password hashing (bcrypt), JWT tokens  
-✅ **Features**: CRUD operations, search/filter, protected routes  
-✅ **Documentation**: Complete API docs, deployment guide, scaling notes  
-
----
-
 ## 🚀 Features
 
-### Frontend
-- **React.js** with Vite for fast development
-- **TailwindCSS** for responsive, modern UI
-- **Protected Routes** - Dashboard accessible only after login
-- **Form Validation** - Client-side validation using React Hook Form + Yup
-- **Search & Filter** - Real-time task search and status filtering
-- **CRUD Operations** - Create, Read, Update, Delete tasks
-- **User Profile Management** - View and update user information
+## Tech Stack
 
-### Backend
-- **Node.js + Express** RESTful API
-- **MongoDB** database with Mongoose ODM
-- **JWT Authentication** for secure access
-- **Password Hashing** using bcryptjs
-- **Protected Routes** with authentication middleware
-- **Error Handling** centralized error management
-- **ES Modules** modern JavaScript syntax
+**Frontend**
+- React (Vite)
+- Tailwind CSS
+- Axios
+- React Router
 
-### Security
-- ✅ Password hashing with bcrypt (10 salt rounds)
-- ✅ JWT token-based authentication
-- ✅ Protected API endpoints with auth middleware
-- ✅ Client-side and server-side validation
-- ✅ Secure token storage in localStorage
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+**Security**
+- bcrypt password hashing
+- JWT middleware
+
 
 ## 📁 Project Structure
 
