@@ -1,6 +1,23 @@
 # Scalable Web App with Authentication & Dashboard
 
-> A modern, full-stack MERN application featuring JWT authentication, task management, and responsive design. Built as a Frontend Developer Internship assignment demonstrating full-stack capabilities.
+> A modern, full-stack MERN application featuring JWT authentication, task management, and responsive design. Built as a Frontend Developer Internship assignment.
+
+## 📸 Media Showcase
+
+### 🎥 Application Demo
+![Application Demo](./media/demo.mp4)
+
+### 📱 Preview
+<p align="center">
+  <img src="./media/login.png" width="45%" alt="Login" />
+  <img src="./media/dashboard.png" width="45%" alt="Dashboard" />
+</p>
+<p align="center">
+  <img src="./media/tasks.png" width="45%" alt="Tasks" />
+  <img src="./media/profile.png" width="45%" alt="Profile" />
+</p>
+
+---
 
 **🔗 Quick Links:**
 - 📖 [Installation Guide](./INSTALLATION.md) - Get started in 5 minutes
