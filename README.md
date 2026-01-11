@@ -5,7 +5,7 @@
 ## 📸 Media Showcase
 
 ### 🎥 Application Demo
-![Application Demo](./media/demo.mp4)
+![Application Demo](./media/demovid.mp4)
 
 ### 📱 Preview
 <p align="center">
